@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6f1ab46f-7846-42c2-8628-6cfe24d4692e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://testegovservices.dnrd.ae/DNRDMedWebServices/GetPersonInfoWithPhotoEx.asmx" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GetPersonInfoWithPhotoEx.wsdl" MetadataType="Wsdl" ID="a06fdab0-87e0-48ca-89f1-fe3e63098b2e" SourceId="1" SourceUrl="http://testegovservices.dnrd.ae/DNRDMedWebServices/GetPersonInfoWithPhotoEx.asmx?wsdl" />
+    <MetadataFile FileName="GetPersonInfoWithPhotoEx.disco" MetadataType="Disco" ID="562073c5-25d1-4906-8f6e-3964c1744b86" SourceId="1" SourceUrl="http://testegovservices.dnrd.ae/DNRDMedWebServices/GetPersonInfoWithPhotoEx.asmx?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
