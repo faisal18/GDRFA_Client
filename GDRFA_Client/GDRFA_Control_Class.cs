@@ -11,6 +11,7 @@ namespace GDRFA_Client
         public static string run()
         {
             //Control_GetPersonDetails("8", "0000", "1", "test123");
+
             return Control_GetPersonDetailswithPhotoEx("1", "2", "201/2003/7072838", "test123");
         }
 
